@@ -1,2 +1,2 @@
-# Module_9_Challenge
-Repository containing the completed module 9 challenge.
+# HR Data Engineering & Relational Schema
+Designed a 6-table PostgreSQL schema with SQL queries using JOINs and aggregations to analyze employee demographics, compensation, and departmental structures
